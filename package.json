@@ -1,0 +1,22 @@
+{
+  "name": "whale-theme",
+  "displayName": "Whale-Theme",
+  "description": "A ocean themed color theme for Visual Studio Code",
+  "version": "0.0.1",
+  "repository": "https://github.com/ImmutableVariable/Whale-Theme",
+  "engines": {
+    "vscode": "^1.100.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Whale Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/whale-dark-color-theme.json"
+      }
+    ]
+  }
+}
