@@ -3,7 +3,7 @@
   "displayName": "Whale-Theme",
   "description": "A ocean themed color theme for Visual Studio Code",
   "publisher": "ImmutableVariable",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "repository": "https://github.com/ImmutableVariable/Whale-Theme",
   "engines": {
     "vscode": "^1.100.0"
