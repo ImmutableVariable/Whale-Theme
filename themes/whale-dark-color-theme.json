@@ -6,8 +6,16 @@
 		"editor.foreground": "#cfd2d5",
 
 		"sideBarTitle.foreground": "#cfd2d5",
-		"sideBar.background": "#0a1622", // #1d252c
+		"sideBar.background": "#0a1622", 
 
+		// That explorer list
+		"sideBarSectionHeader.background": "#0e1e2e",
+		"list.hoverBackground": "#08111a",
+
+		// These two fix a issue i was having. If I had a error in a file, it would make the whole box bright red
+		"list.inactiveSelectionBackground": "#0a1622", 
+		"list.inactiveSelectionForeground": "#cfd2d5",  
+		
 		// far left bar
 		"activityBar.background": "#08111a",
 		"activityBarBadge.background": "#007acc",
@@ -17,16 +25,9 @@
 		"titleBar.inactiveBackground": "#08111a",
 		"editorGroupHeader.tabsBackground": "#08111a",
 		"tab.inactiveBackground": "#08111a",  
-		"tab.inactiveForeground": "#a0a0a0",      
-		"tab.border": "#050b11", 
+		"tab.border": "#08111a", 
+		"tab.inactiveForeground": "#708090",      
 
-		// That explorer list
-		"sideBarSectionHeader.background": "#0e1e2e",
-		"list.hoverBackground": "#08111a",
-
-		// These two fix a issue i was having. If I had a error in a file, it would make the whole box bright red
-		"list.inactiveSelectionBackground": "#0a1622", 
-		"list.inactiveSelectionForeground": "#cfd2d5",  
 
 		// CTRL + F search bar menu
 		"input.background": "#08111a",
@@ -113,7 +114,7 @@
                 "keyword.operator.bitwise"
             ],
             "settings": {
-                "foreground": "#89ddff"
+                "foreground": "#8ed4f0"
             }
         },
         {
