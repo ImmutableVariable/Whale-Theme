@@ -11,6 +11,9 @@
   "categories": [
     "Themes"
   ],
+  "scripts": {
+    "deploy": "vsce publish --yarn"
+  },
   "contributes": {
     "themes": [
       {
@@ -19,5 +22,8 @@
         "path": "./themes/whale-dark-color-theme.json"
       }
     ]
+  },
+  "devDependencies": {
+    "@vscode/vsce": "^3.5.0"
   }
 }

@@ -105,6 +105,7 @@
             "name": "Operators",
             "scope": [
                 "keyword.operator",
+				"keyowrd.operator.new",
                 "keyword.operator.arithmetic",
                 "keyword.operator.assignment",
                 "keyword.operator.comparison",
